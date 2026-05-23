@@ -5,9 +5,7 @@ Repositorio que recoge el trabajo realizado en la asignatura de **Interfaces de 
 ## Contenido del repositorio
 
 - **ET_1**  
-- **ET_2**  
-  - Entregas correspondientes al año 2023.  
-  - Ambas han sido **evaluadas y calificadas con notas cercanas al 9**.
+- **ET_2** 
 
 ## Objetivo del proyecto
 
@@ -20,3 +18,5 @@ El objetivo principal de este trabajo es el desarrollo de interfaces web con esp
 ## Notas
 
 - El código incluido en las entregas principales representa versiones **finales y evaluadas**.
+- Entregas correspondientes al año 2023.  
+- Ambas han sido **evaluadas y calificadas con notas cercanas al 9**.
